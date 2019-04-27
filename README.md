@@ -1,3 +1,9 @@
+* Zahrah Ayu Afifah Febriani
+* 05111640000108
+* Human and computer interaction A
+
+---
+
 # Usability Evaluation and Prototyping (again)
 > Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
 > the participant from the previous Contextual Inquiry (CI) 
@@ -9,7 +15,7 @@
 > Present the ideal case on how to interact with the prototype from the beginning to the end.
 > Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
 
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+[![Prototype Video](https://www.youtube.com/watch?v=uBWtIUc645g)
 
 ---
 
@@ -27,19 +33,26 @@
 > The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+* A man, 50 years old
+* He is an entrepreneur
+* He likes to use his smartphone for reading news on the internet and for using whatsapp
+* He know about a ride-hailing application, but he never try to use the application by himself
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+* A woman, 21 years old
+* She is a student of Urban and Regional Planning ITS
+* She experienced in using smartphone and computer
+* She rarely use a ride-hailing application
 
 ### 2. Evaluation Script
 > Write the questions you ask and the instructions you use to direct the participants on what to do.
 > If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
 > so we have everything in one place.
 > Note that the evaluation script must include exactly what you plan to say to the participants.
+
+Tell the participants to make it clear that we want to test the application. Make sure that they're understand that there's no right or wrong during this usability evaluation test. Here are some questions for the application test:
+1. Suppose that you want to buy something from a store that open 24hours per day, how do you accomplish that?
+2. Suppose that you want to hold a birthday party for a 3-5 years old kid, try to order a birthday package on "Bella Parties"
 
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
