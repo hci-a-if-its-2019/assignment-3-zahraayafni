@@ -34,13 +34,6 @@ Tell the participants to make it clear that we want to test the application. Mak
 2. Suppose that you want to hold a birthday party for a 3-5 years old kid, try to order a birthday package on "Bella Parties"
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
 1. **Me** : Oke jadi ini revisian yang kemarin, ayah kan sudah coba yang pertama. Sekarang ayah coba desain buatanku. Nah nanti yang pertama, misal ayah mau belanja di toko yang buka 24 jam. Nah itu gimana cara ayah dapat tokonya dari aplikasi ini?
@@ -104,14 +97,42 @@ _Me opened the prototype_
 58. **Me** : Ada lagi mungkin? Mungkin tampilan menu atau belonjo?
 59. **Dad** : Ini dari 6 menu ini yang kurang jelas itu Numpak Mobil, harusnya langsung aja yang mudah dimengerti sama orang awam. Misal Taxi/rental gitulah, kalau njajan ini sudah pasti makanan ya, kalau ngirim barang ini semua jenis barang ya?
 60. **Me** : Iyaa, jadi kalau dari yang fitur belonjo tadi gimana yah?
-61. **Dad** : Ini udah bener ada "semua", terbaik ini berarti kayak hypermart gitu ya? Kenapa kok gak "Favorit" gitu?
+61. **Dad** : Ini udah bener ada "semua", terbaik ini berarti kayak hypermart gitu ya? Bukannya ini "Favorit"?
 62. **Me** : Oh ya bisa bisa 
+63. **Dad** : Kalo menurut ayah Belonjo ini baiknya diganti aja
+64. **Me** : Oh gitu.. Diganti apa tuh?
+65. **Dad** : Diganti yang menyangkut ada hiburannya gitu loh yuk.. Apa ya yuk..
+66. **Me** : (Confused) Hiburan apa? Belanja ya belanja hehe, yang menarik? Shopping?
+67. **Dad** : Iya semacam shopping gitu.. Apa hiburan..
+68. **Me** : Lhoo nanti lingkupnya jadi lebih luas
+69. **Dad** : Oh gitu, yaudah belanja aja deh.. Wes ini doang aja yuk..
+70. **Me** : Oh gitu, okedeh makasih banyak ya yah..
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+1. **Me** : Dyah biasa pakai hp buat apa?
+2. **Dyah** : Sosial media sama download tugas kalo ga ada wifi, browsing, cari info
+3. **Me** : Oh oke oke, kamu pernah pakai aplikasi semacam gojek atau grab ga?
+4. **Dyah** : Pernah, tapi gak sampai order
+5. **Me** : Oh gitu, berarti buat apa tuh waktu itu?
+6. **Dyah** : Buat pas kepepet terus gajadi kepepet
+7. **Me** : Ok, jadi ini kita mau ngetest desain aplikasi yang sudah aku buat nih ceritanya. Jadi yang pertama, misal kamu mau beli sesuatu dari toko yang buku 24 jam. Nah bagaimana kamu menyelesaikannya? Oke kita mulai, ya. (Starting my prototype)
+8. **Dyah** : Toko 24 jam.. berarti, ini (She clicked on Belonjo) mm.. karena 24 jam ya pilih yang 24 jam.. layanan tidak tersedia..
+9. **Me** : Iya, layanan tidak tersedia (Laughing) Terus yang kedua, misal kamu mau ngadain pesta ulang tahun untuk anak kecil usia 3-5 tahun terus kamu cari disini, yang jasa pestanya itu "Bella Parties"
+10. **Dyah** : (Looking at screen, started to click at "layanan", "event organizer", "ulang tahun", and "bella parties", she work in ideal flow at once)
+11. **Me** : (While she opened the "Bella Parties" package list) Ini bisa di geser, bisa di klik juga
+12. **Dyah** : Berarti ak harus cari paket anak, karena di Promo tidak ada paket anak dan di Rekomendasi dan Semua paket anak harganya sama jadi yasudah kita pilih saja. (Then she read the description)
+13. **Me** : Terus berarti langkah selanjutnya?
+14. **Dyah** : Langsung next (Read the form requirements), selesaikan pemesanan, ok berhasil
+15. **Me** : Wah cepat sekali sudah solved! (Applause) Jadi ni menurutmu perlu revisi dimana? Tanggapanmu dulu deh gimana?
+16. **Dyah** : ehmm secara tampilan.. (She tried to observe the other screen appearance) ehm.. secara tampilan icon, iconnya nggak sama
+17. **Me** : Nggak sama gimana?
+18. **Dyah** : Kayak yang layanan cuma 1 warna, yang lainnya banyak warna
+19. **Me** :Oh oke oke
+20. **Dyah** : Terus karakternya gak sama tiap icon, ini ada gradasinya ini gak
+21. **Me** : Oh detil sekalii, oke oke, terus
+22. **Dyah** : Menurutku harus ada kolom pencarian, misal orang kan buru - buru bisa langsung search, entah itu nanti masuk di layanan apa gimana
+23. **Me** : Oh oke, kalo dari tampilan - tampilan lainnya yang mana di revisi?
+24. **Dyah** : (In paket anak screen) Ini harus ada contact person sama testimoni
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
