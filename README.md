@@ -118,7 +118,7 @@ _Me opened the prototype_
 7. **Me** : Ok, jadi ini kita mau ngetest desain aplikasi yang sudah aku buat nih ceritanya. Jadi yang pertama, misal kamu mau beli sesuatu dari toko yang buku 24 jam. Nah bagaimana kamu menyelesaikannya? Oke kita mulai, ya. (Starting my prototype)
 8. **Dyah** : Toko 24 jam.. berarti, ini (She clicked on Belonjo) mm.. karena 24 jam ya pilih yang 24 jam.. layanan tidak tersedia..
 9. **Me** : Iya, layanan tidak tersedia (Laughing) Terus yang kedua, misal kamu mau ngadain pesta ulang tahun untuk anak kecil usia 3-5 tahun terus kamu cari disini, yang jasa pestanya itu "Bella Parties"
-10. **Dyah** : (Looking at screen, started to click at "layanan", "event organizer", "ulang tahun", and "bella parties", she work in ideal flow at once)
+10. **Dyah** : (Looking at screen, started to click at "layanan", "event organizer", "ulang tahun", and "bella parties", she worked in ideal flow at once)
 11. **Me** : (While she opened the "Bella Parties" package list) Ini bisa di geser, bisa di klik juga
 12. **Dyah** : Berarti ak harus cari paket anak, karena di Promo tidak ada paket anak dan di Rekomendasi dan Semua paket anak harganya sama jadi yasudah kita pilih saja. (Then she read the description)
 13. **Me** : Terus berarti langkah selanjutnya?
@@ -132,7 +132,7 @@ _Me opened the prototype_
 21. **Me** : Oh detil sekalii, oke oke, terus
 22. **Dyah** : Menurutku harus ada kolom pencarian, misal orang kan buru - buru bisa langsung search, entah itu nanti masuk di layanan apa gimana
 23. **Me** : Oh oke, kalo dari tampilan - tampilan lainnya yang mana di revisi?
-24. **Dyah** : (In paket anak screen) Ini harus ada contact person sama testimoni, terus kalo bisa diurut sesuai abjad namanya dan bisa difilter berdasarkan harga. Rekomendasi ini slide kesamping atau ?
+24. **Dyah** : (In paket anak screen) Ini harus ada contact person sama testimoni, (In Bella Parties) terus kalo bisa diurut sesuai abjad namanya dan bisa difilter berdasarkan harga. Rekomendasi ini slide kesamping atau ?
 25. **Me** : Slide ke samping, ini karena di ppt ya kan
 26. **Dyah** : (In menu page) Masih terlalu polos backgroundnya
 27. **Me** : Iya, berarti warnanya apa nih?
@@ -197,7 +197,52 @@ _Me opened the prototype_
 #### OBSERVATION 6
 ![EO](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/8-EO.jpg)
 
- - **Reference**:  -
+ - **Reference**: -
+ - **Feedback**: -
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: -
+
+#### OBSERVATION 7
+![Birthday](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/9-UlangTahun.jpg)
+
+ - **Reference**: Participant 1 [line 55, 57], Participant 2 [line 22]
+ - **Feedback**: Negative Feedback
+ - **Incidence**: -
+ - **Reason**: It's hard to recognize the Event organizer logo, hard to be focused on the event organizer, and no search button 
+ - **Resolution**: Create a list followed by a brief description for each event organizer and provide a search button
+
+#### OBSERVATION 8
+![Bella Parties](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/9-BellaParties-Semua.jpg)
+
+ - **Reference**: Participant 1 [line 41], Participant 2 [line 24]
+ - **Feedback**: Positive and Negative Feedback
+ - **Incidence**: -
+ - **Reason**: It has a price tag, cannot be filtered
+ - **Resolution**: The package list should be ordered by the first letter of package name or can be filtered by its price
+
+#### OBSERVATION 9
+![Paket Anak](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/14-PaketAnak-12.jpg)
+
+ - **Reference**: Participant 1 [line 31, 41], Participant 2 [line 24]
+ - **Feedback**: Positive and Negative Feedback
+ - **Incidence**: Clicked the back button (Participant 1, line 31)
+ - **Reason**: Cannot figure out what to do, having a package details but still need to add more information
+ - **Resolution**: Make the-next-button more notice-able, Add contact person and testimony into the package details
+
+#### OBSERVATION 10
+![Transaction Form](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/17-DetailPesanan.jpg)
+
+ - **Reference**: Participant 1 [line 43, 49, 51]
+ - **Feedback**: Positive Feedback
+ - **Incidence**: -
+ - **Reason**: Easy to understand and everything is set up clearly
+ - **Resolution**: -
+
+#### OBSERVATION 11
+![Success](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/18-PesananBerhasil.jpg)
+
+ - **Reference**: -
  - **Feedback**: -
  - **Incidence**: -
  - **Reason**: -
