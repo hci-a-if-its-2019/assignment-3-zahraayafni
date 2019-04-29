@@ -77,7 +77,7 @@ _Me opened the prototype_
 38. **Me** : Nah, udah selesai.
 39. **Dad** : Oh gitu aja.. 
 40. **Me** : (Laughing) Iya.. Pemesanannya sudah selesai, nah ini menurut ayah apa bedanya sama kemarin?
-41. **Dad** : Kalau yang kemarin itu kan memang ga jelas, kalo yang ini di layanannya ada penjelesan ke kita terutama ke orang awam ya, untuk memilih paket pesta ulang tahun dan ada harganya jadi lebih enak. Deskripsi ini menjelaskan paketnya ya. Ada fasilitas ini nanti apa aja tapi belom bisa ya, trus ada bonus ini tambahannya, dan harga tadi di depannya juga udah ada. 
+41. **Dad** : Kalau yang kemarin itu kan memang ga jelas, kalo yang ini di layanannya ada penjelasan ke kita terutama ke orang awam ya, untuk memilih paket pesta ulang tahun dan ada harganya jadi lebih enak. Deskripsi ini menjelaskan paketnya ya. Ada fasilitas ini nanti apa aja tapi belom bisa ya, trus ada bonus ini tambahannya, dan harga tadi di depannya juga udah ada. 
 42. **Me** : Iya.. (Then, he clicked right arrow button to continue the transaction)
 43. **Dad** : Kita pencet ini.. Nah ini, ada kejelasan tanggal dan jam berapa sampe tanggal dan jam berapa. Metode pembayaran menyangkut masalah transfer kayak gitu?
 44. **Me** : Iya, nanti dipilih mau indomaret atau transfer apa apa gitu
@@ -126,45 +126,82 @@ _Me opened the prototype_
 15. **Me** : Wah cepat sekali sudah solved! (Applause) Jadi ni menurutmu perlu revisi dimana? Tanggapanmu dulu deh gimana?
 16. **Dyah** : ehmm secara tampilan.. (She tried to observe the other screen appearance) ehm.. secara tampilan icon, iconnya nggak sama
 17. **Me** : Nggak sama gimana?
-18. **Dyah** : Kayak yang layanan cuma 1 warna, yang lainnya banyak warna
+18. **Dyah** : (In menu page) Kayak yang layanan cuma 1 warna, yang lainnya banyak warna
 19. **Me** :Oh oke oke
 20. **Dyah** : Terus karakternya gak sama tiap icon, ini ada gradasinya ini gak
 21. **Me** : Oh detil sekalii, oke oke, terus
 22. **Dyah** : Menurutku harus ada kolom pencarian, misal orang kan buru - buru bisa langsung search, entah itu nanti masuk di layanan apa gimana
 23. **Me** : Oh oke, kalo dari tampilan - tampilan lainnya yang mana di revisi?
-24. **Dyah** : (In paket anak screen) Ini harus ada contact person sama testimoni
+24. **Dyah** : (In paket anak screen) Ini harus ada contact person sama testimoni, terus kalo bisa diurut sesuai abjad namanya dan bisa difilter berdasarkan harga. Rekomendasi ini slide kesamping atau ?
+25. **Me** : Slide ke samping, ini karena di ppt ya kan
+26. **Dyah** : (In menu page) Masih terlalu polos backgroundnya
+27. **Me** : Iya, berarti warnanya apa nih?
+28. **Dyah** : Ya cari yang kontras sama icon nya ini
+29. **Me** : Ada lagi?
+30. **Dyah** : (In the belonjo page) Lha ini iconnya ada outline yang lain ga ada
+31. **Me** : Wah detilnyaa
+32. **Dyah** : Ini gak ada tombol langsung buat ke home nya ya?
+33. **Me** : Iya belom ada, okeeee oke.. terus terus
+34. **Dyah** : (In menu page) Promo - promo ini memungkinkan pop up ga? Biar orang tau kalo ada promo
+35. **Me** : Mm.. Iya bisa
+36. **Dyah** : Padahal promo pop up itu kadang mengganggu, tapi itu salah satu cara untuk menjual produk.. (Looking at screen) Ya, sekian..
+37. **Me** : Oke, terimakasih Dyaaah
 
 ### 4. Feedback and Incidence Analysis
-> Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+![Loading page](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/1-opening.jpg)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
- 
+ - **Reference**:  -
+ - **Feedback**: -
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: -
+
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+![Menu](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/2-MainMenu1.jpg)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+ - **Reference**: Participant 1 [line 59], Participant 2 [line 18, 20, 26, and 34]
+ - **Feedback**: Negative Feedback
+ - **Incidence**: -
+ - **Reason**: The name of button is not represents its function, the icon characters are not match between one and another, the background color is not suitable to its theme color, the promo can't be seen clearly
+ - **Resolution**: Choose the best name for each menu button, fix icon, change the background color, and make the promos possible to pop up when clicked 
  
 #### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+![Belonjo](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/5-Belonjo1.jpg)
 
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+ - **Reference**: Participant 1 [61], Participant 2 [line 30, 32]
+ - **Feedback**: Negative Feedback
+ - **Incidence**: -
+ - **Reason**: It's hard to reach the menu page while stucked somewhere, The filter-icon character is dissimilar, The filter name doesn't sounds good
+ - **Resolution**: Add home button, fixed filter-icon, and change "Terbaik" to "Favorit"
+
+#### OBSERVATION 4
+![Alert](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/4-Alert.jpg)
+
+ - **Reference**:  -
+ - **Feedback**: -
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: -
  
- ... and so on ...
+#### OBSERVATION 5
+![Layanan](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/7-Layanan.jpg)
+
+ - **Reference**:  Participant 1 [line 41]
+ - **Feedback**: Positive Feedback
+ - **Incidence**: -
+ - **Reason**: Easy to understand because provide a brief explanation about the features
+ - **Resolution**: -
+ 
+#### OBSERVATION 6
+![EO](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/8-EO.jpg)
+
+ - **Reference**:  -
+ - **Feedback**: -
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: -
  
  ---
 
