@@ -213,7 +213,7 @@ _Me opened the prototype_
  - **Resolution**: Create a list followed by a brief description for each event organizer and provide a search button
 
 #### OBSERVATION 8
-![Bella Parties](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/9-BellaParties-Semua.jpg)
+![Bella Parties](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/10-BellaParties-Semua.jpg)
 
  - **Reference**: Participant 1 [line 41], Participant 2 [line 24]
  - **Feedback**: Positive and Negative Feedback
