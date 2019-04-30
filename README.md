@@ -164,7 +164,7 @@ _Me opened the prototype_
  - **Reference**: Participant 1 [line 59], Participant 2 [line 18, 20, 26, and 34]
  - **Feedback**: Negative Feedback
  - **Incidence**: -
- - **Reason**: The name of button is not represents its function, the icon characters are not match between one and another, the background color is not suitable to its theme color, the promo can't be seen clearly
+ - **Reason**: The name of button is not really represents its function, the icon characters are not match between one and another, the background color is not suitable to its theme color, the promo can't be seen clearly
  - **Resolution**: Choose the best name for each menu button, fix icon, change the background color, and make the promos possible to pop up when clicked 
  
 #### OBSERVATION 3
@@ -251,15 +251,17 @@ _Me opened the prototype_
  ---
 
 ## Part B: Prototyping (again)
-> Next, you will need to modify your prototype 
-> based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+- Sketching on a Paper
+![Paper Sketch](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/papersketch.jpg)
+
+- Freehand sketch on Invision
+![Freehand Sketch](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/freehandsketch.JPG)
+
+Kindly find the following url that redirect to my freehand sketch on Invision 
+https://projects.invisionapp.com/freehand/document/bT6CVg18g
 
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
