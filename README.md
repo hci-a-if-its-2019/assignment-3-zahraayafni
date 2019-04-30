@@ -260,7 +260,7 @@ _Me opened the prototype_
 - Freehand sketch on Invision
 ![Freehand Sketch](https://github.com/hci-a-if-its-2019/assignment-3-zahraayafni/blob/master/assets/freehandsketch.JPG)
 
-Kindly find the following url that redirect to my freehand sketch on Invision 
+Kindly find the following url that directed to my freehand sketch on Invision 
 https://projects.invisionapp.com/freehand/document/bT6CVg18g
 
 ### Design Rationale
